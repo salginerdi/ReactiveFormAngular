@@ -1,5 +1,59 @@
-# PersonalExampleProject
+# ReactiveFormProject
+# Personel Yönetim Sistemi
 
+Bu proje, Angular ile geliştirilmiş basit bir Personel Yönetim Sistemi'dir. Çalışanların adını, departmanını ve işe giriş tarihini eklemenizi, güncellemenizi ve listelemenizi sağlar.
+
+## Özellikler
+
+- Yeni personel ekleme
+- Mevcut personeli güncelleme
+- Tüm personeli listeleme
+
+## Kullanılan Teknolojiler
+
+- Angular
+- Reactive Forms
+- TypeScript
+- HTML
+- CSS
+
+## Başlarken
+
+Bu yönergeler, projeyi yerel makinenizde kurmanıza ve çalıştırmanıza yardımcı olacaktır.
+
+### Gereksinimler
+
+- Node.js ve npm yüklü olmalı. [Buradan](https://nodejs.org/) indirebilirsiniz.
+
+------
+# Employee Management System
+
+This project is a simple Employee Management System developed with Angular. It allows you to add, update, and list employees with their name, department, and starting date.
+
+## Features
+
+- Add new employees
+- Update existing employees
+- List all employees
+
+## Technologies Used
+
+- Angular
+- Reactive Forms
+- TypeScript
+- HTML
+- CSS
+
+## Getting Started
+
+These instructions will help you set up and run the project on your local machine.
+
+### Prerequisites
+
+- Node.js and npm must be installed. You can download them from [here](https://nodejs.org/).
+
+
+---------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
 
 ## Development server
