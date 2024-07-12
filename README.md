@@ -25,6 +25,8 @@ Bu yönergeler, projeyi yerel makinenizde kurmanıza ve çalıştırmanıza yard
 
 - Node.js ve npm yüklü olmalı. [Buradan](https://nodejs.org/) indirebilirsiniz.
 
+![reactive-form](https://github.com/user-attachments/assets/de11c59c-a15d-4587-a301-ea7221f6be4c)
+
 ------
 # Employee Management System
 
@@ -52,6 +54,7 @@ These instructions will help you set up and run the project on your local machin
 
 - Node.js and npm must be installed. You can download them from [here](https://nodejs.org/).
 
+![reactive-form](https://github.com/user-attachments/assets/ea2264d9-6509-4092-bd68-39aa0aca2ebd)
 
 ---------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
